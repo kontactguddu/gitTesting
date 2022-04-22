@@ -38,7 +38,6 @@
             android:layout_margin="10dp"
             android:id="@+id/img"
             android:contentDescription="" />
-
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
